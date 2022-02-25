@@ -1,12 +1,13 @@
 ## virtual-screening
 java, perl and bash scripts 
 <br><br><br>
+<hr>
 <img src=https://github.com/peter-426/virtual-screening/blob/main/docs/wf1.png  width=600 >
 <br>
 &nbsp; &nbsp;&nbsp;&nbsp;&nbsp; workflow 1
 <br><br><br>
 <hr>
-<img src=https://github.com/peter-426/virtual-screening/blob/main/docs/wf1.png  width=600 >
+<img src=https://github.com/peter-426/virtual-screening/blob/main/docs/wf2.png  width=600 >
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; workflow 2
 <br><br><br>
